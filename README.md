@@ -1,0 +1,2 @@
+# Advanced-Deep-Learning-for-online-Recruitment-Fraud-Detection-A-Transformer-Based-Approach
+This project uses transformer-based deep learning models like BERT to detect fraudulent job postings. By analyzing text and metadata, the model identifies deceptive patterns often missed by traditional methods. It enhances fraud detection accuracy, helping online recruitment platforms protect users from scams and improve trust in digital hiring.
